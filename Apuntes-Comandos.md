@@ -2,7 +2,8 @@
 gcloud init
 
 ## Paso 1: Creación del repositorio en Artifact Registry (GCP)
-gcloud artifacts repositories create repositorio-mlops15-streamlit-ml --repository-format docker --project datapath-kevin-inofuente --location us-central1
+gcloud artifacts repositories create repositorio-mlops15-sesion7-proyecto-ml --repository-format docker --project modulo3-sesion7-proyecto
+ --location us-central1
 
 ## Paso 2: Crear el repo de github
 
